@@ -48,6 +48,8 @@
 - [投资尺 · Invest Ruler](https://investment-ruler.weijiaxian.chatgpt.site/#performance)：从连续月收益查看净值、回撤和风险指标。
 - [知荐 · Zhijian](https://github.com/Ericnotme/zhijian)：Python 内容推荐原型，探索内容相似度、行为反馈和混合排序；源码公开。
 
+[完整作品与源码索引](WORKS.md)：区分在线作品、已有源码与待发布源码。
+
 更多工具与实验：[个人实验室](https://weijia-lab.weijiaxian.chatgpt.site/)。
 
 ## 社交媒体与联系
