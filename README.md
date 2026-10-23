@@ -49,3 +49,10 @@
 - [知荐 · Zhijian](https://github.com/Ericnotme/zhijian)：Python 内容推荐原型，探索内容相似度、行为反馈和混合排序；源码公开。
 
 更多工具与实验：[个人实验室](https://weijia-lab.weijiaxian.chatgpt.site/)。
+
+## 社交媒体与联系
+
+- 微信：`xwj1357930380`
+- X：[@EricXianWeiJia](https://x.com/EricXianWeiJia)
+- Instagram：[@xianweijia](https://www.instagram.com/xianweijia/)
+- Threads：[@xianweijia](https://www.threads.com/@xianweijia)
